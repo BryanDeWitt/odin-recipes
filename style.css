@@ -2,8 +2,8 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 500px;
-    width: 1500px;
+    height: 300px;
+    width: 800px;
     object-fit: cover ;
     object-position: 0 25% ;
     border-radius: 5px;
@@ -96,7 +96,7 @@ h2{
     color: white;
 }
 .generic{
-background-image: url(https://wallpaperaccess.com/full/3787631.jpg);
+background-image: url(https://img.freepik.com/free-photo/shimmery-pink-paint-textured-background_53876-102630.jpg?t=st=1654792324~exp=1654792924~hmac=8a6cb65ae09f67bc6802a435de0a193bad931bb527c2a3a4304a714c78e40e03&w=996);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
