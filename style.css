@@ -26,7 +26,7 @@ body{
 a{
     text-decoration: none;
 }
-a:visited, a:active{
+a:visited{
     color: rgb(250, 0, 0);
 }
 .hambur{
@@ -84,4 +84,21 @@ h2{
     font-style: italic;
     font-weight: 900;
     color: rgb(238, 53, 145)
+}
+.elden{
+    background-image: url(https://3.bp.blogspot.com/-o3_cDoiG39A/XR40yhe7YrI/AAAAAAAAIGc/cY6cxAvFoKccsNeL9piv-X9OEn-tquZJwCKgBGAs/w2560-h1440-c/elden-ring-logo-uhdpaper.com-4K-3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+.ring{
+    color: white;
+}
+.generic{
+background-image: url(https://wallpaperaccess.com/full/3787631.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
