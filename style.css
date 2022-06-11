@@ -23,6 +23,7 @@
 body{
     background-color: rgb(255, 244, 214);
 }
+
 a{
     text-decoration: none;
 }
@@ -78,12 +79,11 @@ strong{
 h2{
     text-align: center;
 }
-#ig{
-    font-size: 50px;
-    text-shadow: -2px -2px rgb(72, 54, 231), 2px 2px rgb(245, 124, 11);
-    font-style: italic;
-    font-weight: 900;
-    color: rgb(238, 53, 145)
+.ig{
+    height: auto;
+    width: 50px;
+    margin-left: 90%;
+    margin-top: 1%;
 }
 .elden{
     background-image: url(https://3.bp.blogspot.com/-o3_cDoiG39A/XR40yhe7YrI/AAAAAAAAIGc/cY6cxAvFoKccsNeL9piv-X9OEn-tquZJwCKgBGAs/w2560-h1440-c/elden-ring-logo-uhdpaper.com-4K-3.jpg);
@@ -101,4 +101,11 @@ background-image: url(https://img.freepik.com/free-photo/shimmery-pink-paint-tex
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
+}
+#ekis{
+    font-size: 0px;
+}
+.panchito{
+    height: auto;
+    width: 100px;
 }
